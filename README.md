@@ -1,4 +1,4 @@
-# Contact Form Example
+# Contact Form 
 
 A simple full-stack example: a static HTML contact form that sends JSON to a Node.js + Express backend. The server logs submitted form data to the console.
 
